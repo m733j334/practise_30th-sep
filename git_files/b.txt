@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#shutdown.sh script
+cd /home/edureka/git/git_files/a.sh
+
