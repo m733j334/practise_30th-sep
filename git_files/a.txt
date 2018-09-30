@@ -1,4 +1,3 @@
 #!/bin/bash
 
-a=ravi
-print a
+this is my master file of a.txt
